@@ -1,0 +1,45 @@
+/logs/
+
+### jenv ###
+.java-version
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### MacOS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
